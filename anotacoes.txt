@@ -1,0 +1,80 @@
+Tags básicas em HTML>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Este é meu primeiro Site!">
+    <meta name="keywords" content="programacao,html,css,javascript">
+    <meta name="author" content="Jonas Franca">
+    <title>Document</title>
+
+
+Tags de formatação de texto em HTML>
+<b></b> - Negrito;
+<strong></strong> - Negrito com maior ênfase;
+<i></i> - texto em italico;
+<u></u> - sublinhar texto;
+<hr> - linha de divisão;
+<br> - Pular uma linha (quebra de linha/texto);
+<small></small> - texto pequeno;
+<del></del> - texto riscado (deletado);
+<sup></sup> - Superior (Ex: números exponenciais);
+<sub></sub> - inferior;
+<mark></mark> - marcação (destacador de texto)
+
+Tags de citações em HTML>
+<abbr></abbr> - abreviações;
+<address></address> - endereços;
+<cite></cite> - citações de obras(filmes,livros,etc);
+<blockquote></blockquote> - destaque de alguma citação de texto;
+
+Tags de comentários em HTML>
+<!--texto-->  - criar comentários para se situar dentro do código;
+
+Tags de Links em HTML>
+<a href=""></a>
+<a href=""target"_blank"></a>  - hiperlink com a utilização de uma nova aba
+<a href="pasta/arquivo" target "_blank"></a> - Navegar entre pastas
+<a href="../arquivo" target "_blank"></a> - Voltar para a pasta e arquivo anterior (utilizar ../../caso o arquivo esteja em pastas mais anteriores)
+
+Tags de imagem>
+<img src="" width="" alt=""> - (O atriburo width é utilizado para redimencionar o tamanho da imagem na tela do usuário; já o atributo alt é utilizado para descrição auditiva da imagem para deficientes visuais, logo, é importante descrever de forma correta e concisa a imagem apresentada)
+
+Tags de Tabelas>
+<table>
+        <tr> - Linhas   
+            <th></th> - Colunas com os títulos
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <td></td> - informações das Linhas
+            <td</td>
+            <td></td>
+        </tr>
+    </table>
+
+Tags de Listas Não ordenadas e Listas Ordenadas>
+    <ul>
+        <li></li>
+    </ul>
+
+Tags de iframes>
+ <iframe src="" width="" height="" title=""></iframe> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
